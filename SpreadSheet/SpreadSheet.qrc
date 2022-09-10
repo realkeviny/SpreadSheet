@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="SpreadSheet"/>
+  <qresource prefix="images">
+    <file>Icon/AMG.jfif</file>
+    <file>Icon/Find.png</file>
+    <file>Icon/Copy.png</file>
+    <file>Icon/Cut.png</file>
+    <file>Icon/GoTo.png</file>
+    <file>Icon/New.png</file>
+    <file>Icon/Open.png</file>
+    <file>Icon/Paste.png</file>
+    <file>Icon/Save.png</file>
+    <file>Icon/SpreadSheet.png</file>
+  </qresource>
+</RCC>
